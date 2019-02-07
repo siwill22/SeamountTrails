@@ -2,7 +2,7 @@
 
 This repo contains code used as part of the recipe to make an animation of seamounts forming along hotspot trails in the Tasman Sea. 
 
-See here: 
+See here [the actual animation starts around 55 seconds in]: 
 
 [![Tasman Sea youtube clip](http://img.youtube.com/vi/ueoTvirXFbc/0.jpg)](https://www.youtube.com/watch?v=ueoTvirXFbc?t=54 )
 
