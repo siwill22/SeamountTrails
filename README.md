@@ -10,3 +10,15 @@ Required inputs:
    
 - grid of present-day bathymetry (in netcdf format) 
 - set of polygons around the edges of the seamounts, with ages assigned corresponding to the age of seamount formation (in a GPlates-readable format, ie shapefile, gpml or gmt)
+
+Outputs:
+- set of paleobathymetry rasters (in netcdf format). These would then be loaded into GPlates using the 'import --> time-dependent raster' option
+
+Once in GPlates, the time-dependent raster sequence can be linked to any reconstruction model by attaching to the static polygons for that model.
+
+Required python modules:
+- numpy
+- matplotlib
+- xarray
+- pygplates
+- stripy
