@@ -2,7 +2,12 @@
 
 This repo contains code used as part of the recipe to make an animation of seamounts forming along hotspot trails in the Tasman Sea. 
 
-See here: https://www.youtube.com/watch?v=ueoTvirXFbc [reconstruction animation starts at 55 seconds]
+See here: 
+
+[![Tasman Sea youtube clip](http://img.youtube.com/vi/ueoTvirXFbc/0.jpg)](https://www.youtube.com/watch?v=ueoTvirXFbc )
+
+
+[the reconstruction animation starts at 55 seconds]
 
 The reconstruction images are made using GPlates. The specific purpose of the code here is to create a series of paleobathymetry grids where each seamounts is masked out for times older than the seamount; each seamount is gradually built up at the time it is thought to have formed (based on radiometric dating and/or plate motion modelling).
 
