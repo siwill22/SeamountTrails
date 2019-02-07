@@ -4,7 +4,7 @@ This repo contains code used as part of the recipe to make an animation of seamo
 
 See here [the actual animation starts around 55 seconds in]: 
 
-[![Tasman Sea youtube clip](http://img.youtube.com/vi/ueoTvirXFbc/0.jpg)](https://www.youtube.com/watch?v=ueoTvirXFbc?t=54 )
+[![Tasman Sea youtube clip](http://img.youtube.com/vi/ueoTvirXFbc/0.jpg)](https://www.youtube.com/watch?v=ueoTvirXFbc&t=54 )
 
 The reconstruction images are made using GPlates (to apply the colormap, add in the hotspot circles and trail markers, displat the time in the top left corner). The specific purpose of the code here is to create a series of paleobathymetry grids to load in to GPlates. In these grids, each seamount is masked out for times older than the seamount; each seamount is gradually built up at the time it is thought to have formed (based on radiometric dating and/or plate motion modelling).
 
